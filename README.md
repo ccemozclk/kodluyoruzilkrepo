@@ -5,7 +5,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 ## Image Of First Repository
 
-  ![Ilk Repom](http://url/a.png)
+  ![Ilk Repom](https://github.com/ccemozclk/kodluyoruzilkrepo/blob/main/img/Ilk_Repo.png)
 
 ## Installation 
 
