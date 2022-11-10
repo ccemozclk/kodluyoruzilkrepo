@@ -3,7 +3,7 @@
 Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repodur. İçerisinde bir adet README.md dosyası, bir adet de index.html dosyası barındırıyor.
 
 ## IMG
-    ![Ilk Repom](C:\Users\cemoz\Desktop\Cem_kisisel\Cem_Calisma\Django_Egitim\kodluyoruzilkrepo\img\İlk Repo.png)
+    ![Ilk Repom](https://github.com/ccemozclk/kodluyoruzilkrepo/blob/main/Ilk_Repo.png)
 
 
 ## Installation 
