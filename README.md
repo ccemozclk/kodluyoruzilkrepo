@@ -32,5 +32,3 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
     [MIT](https://choosealicense.com/licenses/mit/)
 
-## IMG
-    ![Ilk Repom](C:\Users\cemoz\Desktop\Cem_kisisel\Cem_Calisma\Django_Egitim\kodluyoruzilkrepo\img\İlk Repo.png)
